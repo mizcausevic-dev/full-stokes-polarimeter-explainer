@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/full-stokes-polarimeter-explainer/
 
+Repository: https://github.com/mizcausevic-dev/full-stokes-polarimeter-explainer
+
 ## What this is
 
 An interactive anatomy plate for Full-Stokes Polarimeter. Play, scrub, or jump the five stages. The same frame always draws the same picture.
